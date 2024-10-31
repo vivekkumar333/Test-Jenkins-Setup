@@ -15,6 +15,8 @@ class FirstSpringAwsDeploymentDemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test Cases are executing.....");
+		logger.info("Test Cases are executing Second Statement .....................................");
+		
 		assertEquals(true, true);
 	}
 
